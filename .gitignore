@@ -1,0 +1,13 @@
+# dependencies
+node_modules
+
+# build outputs
+dist
+build
+
+# env files (VERY IMPORTANT)
+.env
+.env.*
+backend/.env
+frontend/.env
+admin/.env
